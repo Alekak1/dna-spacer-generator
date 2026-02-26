@@ -1,0 +1,6 @@
+name: simple_gui
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pysimplegui=4.60

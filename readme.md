@@ -1,5 +1,6 @@
 # Random DNA spacer generator
 **Author:** Aleksander Gryciuk
+
 **Version:** v1.0
 
 ---
